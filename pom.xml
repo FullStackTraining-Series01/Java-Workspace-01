@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.5.6</version>
+		<version>2.6.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>date-10Nov</artifactId>
+	<artifactId>date-Nov10-20</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>date-10Nov</name>
+	<name>date-Nov10-20</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
